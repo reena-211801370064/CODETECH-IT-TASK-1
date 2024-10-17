@@ -10,7 +10,8 @@ MENTOR : Neela Santhosh Kumar
 # OVERVIEW OF PROJECT 
 PROJECT : TO -DO LIST WEB APPLICATION
 
-![Screenshot 2024-10-17 103200](https://github.com/user-attachments/assets/c1cf881b-ed9c-4b63-b44c-c06023d51382)
+![Screenshot (233)](https://github.com/user-attachments/assets/02efbfae-7e4e-483b-a573-08a6ec497b55)
+
 
 
 Overview : 
